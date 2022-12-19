@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/realtime-poll/static/css/main.2aa09763.chunk.css",
+    "main.js": "/realtime-poll/static/js/main.d5311ba2.chunk.js",
+    "main.js.map": "/realtime-poll/static/js/main.d5311ba2.chunk.js.map",
+    "runtime-main.js": "/realtime-poll/static/js/runtime-main.d061e555.js",
+    "runtime-main.js.map": "/realtime-poll/static/js/runtime-main.d061e555.js.map",
+    "static/js/2.7b4b13dc.chunk.js": "/realtime-poll/static/js/2.7b4b13dc.chunk.js",
+    "static/js/2.7b4b13dc.chunk.js.map": "/realtime-poll/static/js/2.7b4b13dc.chunk.js.map",
+    "index.html": "/realtime-poll/index.html",
+    "precache-manifest.d77719a9030815b06eabcde143ab0a81.js": "/realtime-poll/precache-manifest.d77719a9030815b06eabcde143ab0a81.js",
+    "service-worker.js": "/realtime-poll/service-worker.js",
+    "static/css/main.2aa09763.chunk.css.map": "/realtime-poll/static/css/main.2aa09763.chunk.css.map",
+    "static/js/2.7b4b13dc.chunk.js.LICENSE.txt": "/realtime-poll/static/js/2.7b4b13dc.chunk.js.LICENSE.txt",
+    "static/media/logo-white.svg": "/realtime-poll/static/media/logo-white.c3351f89.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d061e555.js",
+    "static/js/2.7b4b13dc.chunk.js",
+    "static/css/main.2aa09763.chunk.css",
+    "static/js/main.d5311ba2.chunk.js"
+  ]
+}
